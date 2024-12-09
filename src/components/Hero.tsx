@@ -1,10 +1,12 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
+import Header from './Header'
 
 const Hero = () => {
   return (
     <section className='w-full h-[580px] md:w-[1110px] md:h-[600px] mx-auto lg:16px xl:mx-32px 2xl:mx-64px bg-y1'>
+      <Header />
        <div className='w-[80%] h-[90%] mx-auto justify-center flex flex-col md:flex-row pt-12 md:pt-0'>
        <div className='w-[50%] h-[90%px] my-auto md:mx-auto flex-col'>
         <div className='w-[240px] h-[200px] md:w-[380px] md:h-[160px]  ml-6 md:ml-0 pt-8 mx-auto items-center justify-center font-Poppins text-3xl md:text-5xl text-center md:text-start font-medium '>

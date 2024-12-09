@@ -16,9 +16,14 @@ const Sec3 = () => {
       <Sofa name="Granite dining table with chair" price="Rs. 25,000.00" image="/images/Granite dining table with dining chair 1.png" />
       <Sofa name="Outdoor bar table and stool" price="Rs. 25,000.00" image="/images/Outdoor bar table and stool 1.png" />
       <Sofa name="Plain console with teak mirror" price="Rs. 25,000.00" image="/images/Plain console with teak mirror 1.png" />
+      <Sofa name="Grain coffee table" price="Rs. 25,000.00" image="/images/Grain coffee table 1.png" />
+      <Sofa name="Kent coffee table" price="Rs. 225,000.00" image="/images/Kent coffee table 1.png" />
+      <Sofa name="Round coffee table_color 2" price="Rs. 251,000.00" image="/images/Round coffee table_color 2 1.png" />
+      <Sofa name="Reclaimed teak coffee table" price="Rs. 25,200.00" image="/images/Reclaimed teak coffee table 1.png" />
+     
      </div>
 
-     <Link href="/">
+     <Link href="/shop">
               <span className="inline-block mt-10 md:mt-4 text-sm font-md mx-auto border-b border-black">
                 View More
               </span>
