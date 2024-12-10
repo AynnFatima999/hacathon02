@@ -12,7 +12,7 @@ const Sec3 = () => {
      </div>
 
      <div className='w-full md:h-[380px] flex overflow-x-scroll '>
-       <Sofa name="Trenton modular sofa_3" price="Rs. 25,000.00" image="/images/Trenton modular sofa_3 1.png" />
+      <Sofa name="Trenton modular sofa_3" price="Rs. 25,000.00" image="/images/Trenton modular sofa_3 1.png" />
       <Sofa name="Granite dining table with chair" price="Rs. 25,000.00" image="/images/Granite dining table with dining chair 1.png" />
       <Sofa name="Outdoor bar table and stool" price="Rs. 25,000.00" image="/images/Outdoor bar table and stool 1.png" />
       <Sofa name="Plain console with teak mirror" price="Rs. 25,000.00" image="/images/Plain console with teak mirror 1.png" />

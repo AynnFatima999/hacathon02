@@ -15,6 +15,7 @@ const config: Config = {
         w2: "#FAF4F4",
         y1: "#FBEBB5",
         y2: "#FFF9E5",
+        y3: "#FFF9EF"
 
 
       },
