@@ -4,8 +4,8 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="w-full h-max md:w-[1110px] md:h-[555px] mx-auto mt-5 flex justify-center items-center ">
-  <div className="w-[90%] md:w-[910px] h-[728px]  md:h-[430px]  flex flex-col items-center gap-1 mt-5 md:my-0">
+    <footer className="w-full h-max md:w-[1110px] md:h-[540px] mx-auto flex justify-center items-center ">
+  <div className="w-[90%] md:w-[910px] h-[728px]  md:h-[430px]  flex flex-col items-center gap-1 mt-4 ">
     {/* Upper Section */}
     <div className="w-[90%] h-[620px] md:w-[940px] md:h-[312px]  flex flex-col md:flex-row md:gap-10 -translate-x-2 md:items-center">
     <div className='w-[220px] h-[24px] md:w-[px] md:h-[px] text-xs md:text-sm text-g1 text-center items-center mx-auto md:mx-0 mb-4 shrink-0'>400 University Drive Suite 200 Coral Gables,FL 33134 USA
@@ -36,10 +36,6 @@ const Footer = () => {
             
         </div>
     </div>
-
-     
-       
-      
      
     </div>
     

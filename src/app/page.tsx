@@ -1,3 +1,4 @@
+import Blog from "@/components/Blog";
 import Hero from "@/components/Hero";
 import Sec3 from "@/components/Sec3";
 import Sec4 from "@/components/Sec4";
@@ -13,6 +14,7 @@ export default function Home() {
      <Sidetable />
      <Sec3 />
      <Sec4 />
+     <Blog />
      <Social />
 
     

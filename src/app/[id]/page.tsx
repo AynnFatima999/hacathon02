@@ -142,7 +142,7 @@ const Productid: React.FC<ProductidProps> = ({ params }) => {
                 <div className="items-center p-2 bg-w2 w-10">+</div>
             </div>
             <div className="w-[160px] h-[48px] md:w-[200px] md:h-[60px] rounded-md border border-black flex items-center justify-center mx-auto">
-           <Link href='/'> <button className="">Add To Cart</button></Link>
+           <Link href='/cart'> <button className="">Add To Cart</button></Link>
             </div>
 
             </div>
